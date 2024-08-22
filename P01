@@ -1,5 +1,0 @@
-git init
-git add .
-git commit -m "First commit"
-git remote add origin "D:\ITI\ITI Courses\1.Cousres\1.7.ASP. Net MVC Core\DAY 6\LabL"
-git push -u origin master
